@@ -59,5 +59,5 @@ Among the evaluated models, the Support Vector Machine (SVM) was selected as the
 The results demonstrate that machine learning models can be effectively applied to semiconductor sensor data for yield prediction. Such models can support manufacturing engineers in monitoring processes and identifying potential yield issues at an early stage. Further improvements could be achieved through advanced feature selection and additional hyperparameter tuning.
 
 
-Priyanshu  
+Gaurav Aryan 
 Intern, Corizo Edutech Pvt. Ltd.
